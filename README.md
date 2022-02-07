@@ -4,7 +4,7 @@ Benchmark suite for Multiple Vehicle Trajectory Planning (MVTP) problems.
 
 
 
-![animation_case_51](resources\animation_case_51.gif)
+![animation_case_51](resources/animation_case_51.gif)
 
 
 Supported Platforms:
@@ -22,7 +22,7 @@ Users must cite the following articles if they use the source codes to conduct s
 ## How to run
 
 1. Download CasADi/MATLAB package from [CasADi](https://web.casadi.org/get/), extract binaries to `casadi` folder
-   1. **[Optional]** For best performance, users are encouraged to request **ma27** linear solver code from [HSL for IPOPT](https://www.hsl.rl.ac.uk/ipopt/), follow the install instructions from [IPOPT HSL autotools](https://github.com/coin-or-tools/ThirdParty-HSL), and set`linear_solver` to `ma27` in `params/GetModelParams.m`
+   1. **[Optional]** For best performance, users are encouraged to request **ma27** linear solver code from [HSL for IPOPT](https://www.hsl.rl.ac.uk/ipopt/), follow the install instructions from [IPOPT HSL autotools](https://github.com/coin-or-tools/ThirdParty-HSL), and set `linear_solver` to `ma27` in `params/GetModelParams.m`
 2. Run `RunBenchmark.m`
 3. Play with different benchmark cases and different parameters
 
