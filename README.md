@@ -1,6 +1,6 @@
 # MVTP Benchmark
 
-Benchmark suite for Multiple Vehicle Trajectory Planning (MVTP) problems.
+Benchmark suite and solver for Multiple Vehicle Trajectory Planning (MVTP) problems.
 
 
 
